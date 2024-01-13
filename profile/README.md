@@ -1,12 +1,9 @@
-## Hi there 👋
+## ¡Bienvenido a X Project S.A.! 👋🏼👨🏻‍💻👩🏻‍💻
 
-<!--
+🙋🏻‍♀️🙋🏻‍♂️ Somos una empresa de Software argentina orientada a crear soluciones de alta calidad en tiempo real y con atención personalizada.
 
-**Here are some ideas to get you started:**
+🌈 Pueden encontrarnos en redes como [X](https://twitter.com/XProjectSA), [Linkedin](https://www.linkedin.com/company/x-project-s.a.) y [Facebook](https://www.facebook.com/Xprojectsa).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+💡 Accedé a nuestro [Repositorio de Requerimientos](https://github.com/X-Project-SA/Requerimientos)
+
+🍿 ¿Sabías que este año cumplimos 20 años en el mercado? ¡Sumate a nuestro equipo :)!
