@@ -6,4 +6,4 @@
 
 💡 Accedé a nuestro [Repositorio de Requerimientos](https://github.com/X-Project-SA/Requerimientos)
 
-🍿 ¿Sabías que este año cumplimos 20 años en el mercado? ¡Sumate a nuestro equipo :)!
+🍿 ¿Sabías que ya cumplimos 20 años en el mercado? ¡Sumate a nuestro equipo 😁!
